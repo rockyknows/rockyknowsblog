@@ -1,5 +1,5 @@
 ---
-title: Rocky Knows
+title: Rocky Knows It
 baseline: ''
 description: Thank you and welcome! Hope you find these blogs helpful!
 keywords: Intune, Education
@@ -16,10 +16,6 @@ output:
     mediatype: text/plain
     extension: ''
 virtualpages:
-- path: ''
-  title: ''
-  layout: ''
-  output: ''
 - path: admin
   title: Content Manager (Netlify CMS)
   layout: admin/index
