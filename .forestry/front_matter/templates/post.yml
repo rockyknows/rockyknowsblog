@@ -17,5 +17,6 @@ fields:
   name: tags
   label: Tags
 pages:
+- content/blog/defender-atp-setup-high-level-overview.md
 - content/blog/test-2.md
 - content/blog/test.md
