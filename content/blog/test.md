@@ -1,5 +1,5 @@
 ---
-date: 2020-05-10 04:21:39 +0000
+date: 2020-05-08 23:21:39 -0500
 draft: false
 title: 'The Defender Issue #1: Third Party AV and Firewall'
 image: "/images/7872_gated(1).png"
