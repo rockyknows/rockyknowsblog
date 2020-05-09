@@ -1,14 +1,15 @@
 ---
-date: 2020-05-09 04:21:39 +0000
+date: 2020-05-10 04:21:39 +0000
 draft: false
 title: 'The Defender Issue #1: Third Party AV and Firewall'
-image: ''
+image: "/images/7872_gated(1).png"
 tags:
 - DefenderATP
 - Defender
 - DefenderIssue
 
 ---
+
 Apparently, People had no idea Defender was even on...
 
 So I've been through hell trying to figure out different issues to our Defender AV is OFF.  
