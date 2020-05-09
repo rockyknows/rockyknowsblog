@@ -5,7 +5,7 @@ title: 'Defender ATP Setup: High-Level Overview'
 image: ''
 tags:
 - DefenderATP
-- " Onboarding"
+- Onboarding
 
 ---
 **Defender ATP Setup: High-Level Overview**
