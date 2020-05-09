@@ -1,7 +1,7 @@
 ---
 title: Rocky Knows
 baseline: ''
-description: usually things I know I should share and hope it helps you
+description: Thank you and welcome! Hope you find these blogs helpful!
 keywords: Intune, Education
 author: Rocky Pabillore
 baseurl: "/"
@@ -16,6 +16,10 @@ output:
     mediatype: text/plain
     extension: ''
 virtualpages:
+- path: ''
+  title: ''
+  layout: ''
+  output: ''
 - path: admin
   title: Content Manager (Netlify CMS)
   layout: admin/index
