@@ -2,7 +2,7 @@
 date: 2020-05-09 04:27:20 +0000
 draft: false
 title: 'Defender ATP Setup: High-Level Overview'
-image: "/images/Annotation 2020-01-07 082123.png"
+image: ''
 tags:
 - DefenderATP
 - " Onboarding"
