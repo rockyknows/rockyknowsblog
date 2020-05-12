@@ -18,7 +18,7 @@ So unfortunately, in order of the upload to show up, You need to log into the De
 
 ![](/images/onboarding01.png)
 
-So, apparently my onboarding profile was already expired (might be because of the test/trial tenant from before). Currently, the 'automated'onboarding would onboard the device to "North Europe". Our current ATP tenant is located in the US. So that device never shows up on our portal.
+So, apparently my onboarding profile was already expired (might be because of the test/trial tenant from before). Currently, the 'automated' onboarding would onboard the device to "North Europe". Our current ATP tenant is located in the US. So that device never shows up on our portal.
 
 Once you unsync Defender from Intune, You can upload the onboarding package and this is normally successful and I was able to do it.
 
