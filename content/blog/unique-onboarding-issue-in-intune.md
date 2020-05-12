@@ -6,8 +6,13 @@ image: "/images/7643_woman_yelling_at_cat_meme.png"
 tags:
 - Onboarding
 - DefenderATP
+- Fixes
+- Issues
 
 ---
+
+## THE ISSUE
+
 There was a unique case that I had to open with Microsoft regarding onboarding from Intune (autopilot). The configuration profile for Defender ATP was a little bit challenging at first.
 
 ![](/images/onboarding00.png)
@@ -22,7 +27,11 @@ So, apparently my onboarding profile was already expired (might be because of th
 
 Once you unsync Defender from Intune, You can upload the onboarding package and this is normally successful and I was able to do it.
 
-Now the challenging part, we need the sync between Defender and Intune, so this must be fixed. What I found out is that you can create a custom uri for the onboarder.
+Now the challenging part, we need the sync between Defender and Intune, so this must be fixed. 
+
+## THE FIX/WORKAROUND
+
+What I found out is that you can create a custom uri for the onboarder.
 
 ![](/images/onboarding02.png)
 
